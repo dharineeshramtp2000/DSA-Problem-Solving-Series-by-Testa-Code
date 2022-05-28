@@ -12,9 +12,11 @@
 
 <br />
 
-## :handshake: Let's Connect 
-<br />
-### :wave: Dharineesh ram 
+# :handshake: Let's Connect 
+
+
+
+## :wave: Dharineesh ram 
 
 
 <a href="https://dharineesh-ram.herokuapp.com"><img align="left" src="bin/WWW.svg" alt="Dharineesh ram | Website" width="21px"/></a>
@@ -23,10 +25,11 @@
 <a href="https://github.com/dharineeshramtp2000"><img align="left" src="bin/Github.svg" alt="Dharineesh ram | Github" width="21px"/></a>
 <a href="https://medium.com/@dharineesh2000"><img align="left" src="bin/Medium.svg" alt="Dharineesh ram | Medium" width="21px"/></a>
 <a href="dharineeshram@gmail.com"><img align="left" src="bin/Gmail.svg" alt="Dharineesh ram | Gmail" width="21px"/></a>
+</br>
 
 
 
-### :wave: Karthikeyan thanigaivelu 
+## :wave: Karthikeyan thanigaivelu 
 
 
 <a href="https://karthikeyanthanigai.github.io/Website/"><img align="left" src="bin/WWW.svg" alt="Karthikeyan | Website" width="21px"/></a>
