@@ -14,9 +14,8 @@
 
 ## :handshake: Let's Connect 
 <br />
-
 ### :wave: Dharineesh ram 
-<br />
+
 
 <a href="https://dharineesh-ram.herokuapp.com"><img align="left" src="bin/WWW.svg" alt="Dharineesh ram | Website" width="21px"/></a>
 <a href="https://www.instagram.com/dharineeshram/"><img align="left" src="bin/Instagram.svg" alt="Dharineesh ram | Instagram" width="21px"/></a>
@@ -28,7 +27,7 @@
 
 
 ### :wave: Karthikeyan thanigaivelu 
-<br />
+
 
 <a href="https://karthikeyanthanigai.github.io/Website/"><img align="left" src="bin/WWW.svg" alt="Karthikeyan | Website" width="21px"/></a>
 <a href="https://www.instagram.com/karthikeyanthanigaivel/"><img align="left" src="bin/Instagram.svg" alt="Karthikeyan | Instagram" width="21px"/></a>
