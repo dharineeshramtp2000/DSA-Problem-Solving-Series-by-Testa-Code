@@ -7,13 +7,15 @@
 
 
 - :man_in_tuxedo: [Course problems sloutions](https://github.com/dharineeshramtp2000/DSA-Problem-Solving-Series-by-Testa-Code/tree/master/Programs)
-- :memo: :pencil: [Assignment problem solutions](https://github.com/dharineeshramtp2000/DSA-Problem-Solving-Series-by-Testa-Code/tree/master/Assignments)
+- :memo: [Assignment problem solutions](https://github.com/dharineeshramtp2000/DSA-Problem-Solving-Series-by-Testa-Code/tree/master/Assignments)
 - :fire: [Subscribe to our channel](https://www.youtube.com/channel/UC5TJn17Vh5IsR-x2hmmQ8ow)
 
 <br />
-##:handshake: Let's Connect 
+
+## :handshake: Let's Connect 
 <br />
-**:wave: Dharineesh ram **
+
+** :wave: Dharineesh ram **
 
 <a href="https://dharineesh-ram.herokuapp.com"><img align="left" src="bin/WWW.svg" alt="Dharineesh ram | Website" width="21px"/></a>
 <a href="https://www.instagram.com/dharineeshram/"><img align="left" src="bin/Instagram.svg" alt="Dharineesh ram | Instagram" width="21px"/></a>
@@ -23,7 +25,8 @@
 <a href="dharineeshram@gmail.com"><img align="left" src="bin/Gmail.svg" alt="Dharineesh ram | Gmail" width="21px"/></a>
 
 <br />
-**:wave: Karthikeyan thanigaivelu **
+
+** :wave: Karthikeyan thanigaivelu **
 
 <a href="https://karthikeyanthanigai.github.io/Website/"><img align="left" src="bin/WWW.svg" alt="Karthikeyan | Website" width="21px"/></a>
 <a href="https://www.instagram.com/karthikeyanthanigaivel/"><img align="left" src="bin/Instagram.svg" alt="Karthikeyan | Instagram" width="21px"/></a>
