@@ -10,9 +10,9 @@
 - :memo: :pencil: [Assignment problem solutions](https://github.com/dharineeshramtp2000/DSA-Problem-Solving-Series-by-Testa-Code/tree/master/Assignments)
 - :fire: [Subscribe to our channel](https://www.youtube.com/channel/UC5TJn17Vh5IsR-x2hmmQ8ow)
 
----
+<br />
 ##:handshake: Let's Connect 
----
+<br />
 **:wave: Dharineesh ram **
 
 <a href="https://dharineesh-ram.herokuapp.com"><img align="left" src="bin/WWW.svg" alt="Dharineesh ram | Website" width="21px"/></a>
@@ -21,9 +21,8 @@
 <a href="https://github.com/dharineeshramtp2000"><img align="left" src="bin/Github.svg" alt="Dharineesh ram | Github" width="21px"/></a>
 <a href="https://medium.com/@dharineesh2000"><img align="left" src="bin/Medium.svg" alt="Dharineesh ram | Medium" width="21px"/></a>
 <a href="dharineeshram@gmail.com"><img align="left" src="bin/Gmail.svg" alt="Dharineesh ram | Gmail" width="21px"/></a>
-<a href="https://www.youtube.com/channel/UC5TJn17Vh5IsR-x2hmmQ8ow"><img align="left" src="bin/Youtube.svg" alt="Testa Code" width="21px"/></a>
 
----
+<br />
 **:wave: Karthikeyan thanigaivelu **
 
 <a href="https://karthikeyanthanigai.github.io/Website/"><img align="left" src="bin/WWW.svg" alt="Karthikeyan | Website" width="21px"/></a>
@@ -32,8 +31,6 @@
 <a href="https://github.com/karthikeyanthanigai"><img align="left" src="bin/Github.svg" alt="Karthikeyan | Github" width="21px"/></a>
 <a href="https://medium.com/@ktv0303"><img align="left" src="bin/Medium.svg" alt="Karthikeyan | Medium" width="21px"/></a>
 <a href="ktv0303@gmail.com"><img align="left" src="bin/Gmail.svg" alt="Karthikeyan | Gmail" width="21px"/></a>
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="bin/Gmail.svg" alt="Dharineesh ram | Gmail" width="21px"/></a>
-<a href="https://www.youtube.com/channel/UC5TJn17Vh5IsR-x2hmmQ8ow"><img align="left" src="bin/Youtube.svg" alt="Testa Code" width="21px"/></a>
 
 
 
