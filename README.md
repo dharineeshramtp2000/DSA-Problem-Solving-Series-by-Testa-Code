@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/dharineesh-ram/"><img align="left" src="bin/LinkedIN.svg" alt="Dharineesh ram | LinkedIn" width="21px"/></a>
 <a href="https://github.com/dharineeshramtp2000"><img align="left" src="bin/Github.svg" alt="Dharineesh ram | Github" width="21px"/></a>
 <a href="https://medium.com/@dharineesh2000"><img align="left" src="bin/Medium.svg" alt="Dharineesh ram | Medium" width="21px"/></a>
-<a href="dharineeshram@gmail.com"><img align="left" src="bin/Gmail.svg" alt="Dharineesh ram | Gmail" width="21px"/></a>
+<a href="mailto:dharineeshram@gmail.com"><img align="left" src="bin/Gmail.svg" alt="Dharineesh ram | Gmail" width="21px"/></a>
 </br>
 
 
@@ -37,7 +37,7 @@
 <a href="https://www.linkedin.com/in/karthikeyanthanigai/"><img align="left" src="bin/LinkedIN.svg" alt="Karthikeyan | LinkedIn" width="21px"/></a>
 <a href="https://github.com/karthikeyanthanigai"><img align="left" src="bin/Github.svg" alt="Karthikeyan | Github" width="21px"/></a>
 <a href="https://medium.com/@ktv0303"><img align="left" src="bin/Medium.svg" alt="Karthikeyan | Medium" width="21px"/></a>
-<a href="ktv0303@gmail.com"><img align="left" src="bin/Gmail.svg" alt="Karthikeyan | Gmail" width="21px"/></a>
+<a href="mailto:ktv0303@gmail.com"><img align="left" src="bin/Gmail.svg" alt="Karthikeyan | Gmail" width="21px"/></a>
 
 
 
