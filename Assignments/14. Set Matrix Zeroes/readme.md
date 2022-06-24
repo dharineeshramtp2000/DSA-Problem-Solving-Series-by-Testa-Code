@@ -1,1 +1,1 @@
-Problem Link ```LeetCode```: [```Diagonal Traverse```](https://leetcode.com/problems/diagonal-traverse/)
+Problem Link ```LeetCode```: [```Intersection of Two Arrays```](https://leetcode.com/problems/intersection-of-two-arrays/)
