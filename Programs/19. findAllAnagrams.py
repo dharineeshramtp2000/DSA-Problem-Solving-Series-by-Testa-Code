@@ -1,6 +1,6 @@
 def findAllAnagrams(s, p):
 
-    targetFrequency = self.getFrequency(p)
+    targetFrequency = getFrequency(p)
 
     targetLength = len(p)
 
